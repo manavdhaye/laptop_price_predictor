@@ -5,7 +5,11 @@ import math
 import pandas as pd
 df=pickle.load(open("df.pkl","rb"))
 pipe = pickle.load(open("pipe.pkl", "rb"))
+<<<<<<< HEAD
 st.title("laptop price prediction")
+=======
+st.title("Laptop Predicyion System")
+>>>>>>> a8041bdb31001115ff05445a6baeabed9f372c3c
 
 
 company = st.selectbox(("select company"),df["Company"].unique())
