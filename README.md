@@ -1,7 +1,5 @@
-===============================
 Laptop Price Prediction System
-===============================
-
+----------------
 📌 DESCRIPTION:
 ---------------
 This is a machine learning web application built using Streamlit that predicts the price of a laptop based on various user inputs such as company, RAM, screen size, CPU brand, etc.
